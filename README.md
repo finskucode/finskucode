@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finskucode
-- 👀 I’m interested in coding and developing apps.
+- 👀 I’m interested in coding and developing bots.
 - 🌱 I’m currently learning javascript and python. :D
 - 📫 How to reach me:
   - not yet.
